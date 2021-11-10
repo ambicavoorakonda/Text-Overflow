@@ -1,0 +1,24 @@
+div {
+    width: 1000px;
+    height: 700px;
+    background: cornsilk;
+    margin: 50px;
+    margin-left: 150px;
+    padding: 20px;
+    border: 8px solid black;
+    border-style: groove;
+}
+h1 {
+    text-align: center;
+    color: crimson;
+    font-size: 50px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+p {
+    font-size: 30px;
+    word-wrap: break-word;
+    text-align: justify;
+
+}
